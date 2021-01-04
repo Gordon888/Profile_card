@@ -1,5 +1,5 @@
 # Profile_card
 
-This is a standard profile card using HTML & CSS.
+This is a simple profile card using HTML & CSS.
 
-Built from an image.
+Built from a designed reference. (reference is in images!)
